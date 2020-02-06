@@ -1,0 +1,10 @@
+version: "2"
+services:
+  pwn:
+    build: .
+    image: challenge_bsidessf_2019_pwn_slowfire
+    ports:
+      - "10000:10000"
+    environment:
+      - FLAG=ctfhub{challenge_bsidessf_2019_pwn_slowfire}
+      - TCPDUMP_ENABLE=0
