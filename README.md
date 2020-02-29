@@ -1,14 +1,10 @@
 # bsidessf_2019_pwn_slowfire
 
-build with base_pwn_xinetd_1804
+build with [ctfhub/base_pwn_xinetd_1604](https://hub.docker.com/r/ctfhub/base_pwn_native_1604)
 
 ## 题目详情
 
 **Bsidessf 2019 slowfire**
-
-## 考点
-
-**pwn**
 
 ## 启动
 
@@ -17,4 +13,6 @@ build with base_pwn_xinetd_1804
 
 ## 版权
 
-该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系本人删除（wzcboss@qq.com）
+该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系我们删除（services#ctfhub.com）
+
+This challenge has not obtained relevant authorization from the organizer and the author. If it is infringing, please contact us to delete (services#ctfhub.com)
