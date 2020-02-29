@@ -1,6 +1,6 @@
 # bsidessf_2019_pwn_slowfire
 
-build with [ctfhub/base_pwn_xinetd_1604](https://hub.docker.com/r/ctfhub/base_pwn_native_1604)
+build with [ctfhub/base_pwn_native_1604](https://hub.docker.com/r/ctfhub/base_pwn_native_1604)
 
 ## 题目详情
 
